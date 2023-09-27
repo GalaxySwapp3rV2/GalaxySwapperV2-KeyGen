@@ -1,6 +1,7 @@
 ### GalaxySwapperV2 auto key-gen. 
 
 1. A quick note, the owner will probably get mad at this and possibly will either change how the keygen works entirely or will result in ratting/spreading other forms of trojans/malware via the swapper as he'd be making no money and would be triggered, use the swapper at your own risk. This will be abused by others!
+2. The binary is for those who do not want to spend time downloading off of the website (involves going through AD's, for those who already have the application, just move to the next step.
 
 ### How to use?
 
